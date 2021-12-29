@@ -16,6 +16,7 @@ public class MyApplication extends Application {
         stage.setTitle("Telegrams");
         stage.setScene(scene);
         stage.show();
+
     }
 
     public static void main(String[] args) {
